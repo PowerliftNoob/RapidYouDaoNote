@@ -21,7 +21,6 @@ npx electron .
 请参考[electron]文档
 
 ## 截图
-扫码登录界面：
 <p align="center">
   <img src="https://github.com/iBeiKeCyn/RapidYouDaoNote/blob/master/screenshot/screenshot.png?raw=true" alt="chat">
 </p>
