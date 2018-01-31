@@ -24,7 +24,7 @@ npx electron .
 ## 截图
 扫码登录界面：
 <p align="center">
-  <img src="https://github.com/iBeiKeCyn/rapidwechat/blob/master/screenshot/pic.png?raw=true" alt="chat">
+  <img src="https://github.com/iBeiKeCyn/RapidYouDaoNote/blob/master/screenshot/screenshot.png?raw=true" alt="chat">
 </p>
 
 
